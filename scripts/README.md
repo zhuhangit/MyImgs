@@ -1,13 +1,14 @@
 # quanx
 
 1. Spotify翻译
-1. 泼辣修图
+1. MIX
 1. 网易蜗牛读书
 1. 小影
+1. youtube贴片广告
 
 ```
 [mitm]
-hostname = spclient.wg.spotify.com,p.du.163.com,api.polaxiong.com,xy-viva.kakalili.com, api-chn.rthdo.com
+hostname = spclient.wg.spotify.com,p.du.163.com,api.polaxiong.com,xy-viva.kakalili.com, api-chn.rthdo.com,youtubei.googleapis.com
 
 [rewrite_remote]
 #>>>>>>>>>>>断舍离
