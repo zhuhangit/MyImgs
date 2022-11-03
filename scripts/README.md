@@ -1,3 +1,9 @@
 # quanx
 
-(部分引用 NobyDa/Script)[https://github.com/NobyDa/Script]
+### 自用配置
+> #m
+> #s
+
+
+### 参考资料
+[NobyDa/Script](https://github.com/NobyDa/Script)
