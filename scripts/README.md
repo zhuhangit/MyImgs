@@ -4,7 +4,7 @@
 1. MIX
 1. 网易蜗牛读书
 1. 小影
-1. youtube贴片广告
+1. youtube瀑布流广告
 
 ```
 [mitm]
