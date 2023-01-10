@@ -1,0 +1,14 @@
+var modifiedHeaders = $request['headers'];
+modifiedHeaders['Cookie'] = '_uuid=8BAF453C-921010-9AFE-4E44-91F934326D2724347infoc; b_nut=1648720525; buvid3=95133F4F-1D60-E78E-2BB0-7C39AACD37BD25676infoc; buvid4=38B5440B-E34A-896C-BFC3-9F2BDAC3D17B25676-022033117-0b4KvZ9PIXWHGikyR5MRFg%3D%3D; CURRENT_BLACKGAP=0; blackside_state=0; nostalgia_conf=-1; i-wanna-go-back=-1; buvid_fp_plain=undefined; CURRENT_FNVAL=4048; PVID=1; rpdid=|(J|YJkYRmJm0J'uYY)~lkmkl; innersign=0; b_lsid=68248538_185999644C5; bp_video_offset_431531253=749366515119161300; fingerprint=3658ac2d7acb5801d8d4e19cbbb8242d; buvid_fp=3658ac2d7acb5801d8d4e19cbbb8242d; SESSDATA=b291dd26%2C1688872361%2Cb5186%2A11; bili_jct=c80e0e84c412208a50ad20089b9064de; DedeUserID=49400153; DedeUserID__ckMd5=c7ea4596e7bc55e3; sid=4zyoo7ox; b_ut=5';
+modifiedHeaders['x-bili-device-bin'] = '';
+modifiedHeaders['Authorization'] = '';
+modifiedHeaders['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36';
+modifiedHeaders['buvid'] = '';
+modifiedHeaders['x-bili-metadata-bin'] = '';
+modifiedHeaders['x-bili-locale-bin'] = '';
+modifiedHeaders['x-bili-network-bin'] = '';
+modifiedHeaders['x-bili-fawkes-req-bin'] = '';
+modifiedHeaders['x-bili-trace-id'] = '';
+modifiedHeaders['x-bili-exps-bin'] = '';
+modifiedHeaders['x-bili-network-bin'] = '';
+$done({'headers': modifiedHeaders});
