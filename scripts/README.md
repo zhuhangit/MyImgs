@@ -15,5 +15,10 @@ https://raw.githubusercontent.com/zhuhangit/MyImgs/master/scripts/all.conf, tag=
 
 
 ### 参考资料
+
 [NobyDa/Script](https://github.com/NobyDa/Script)
+
 [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013)
+
+[app2smile/rules](https://github.com/app2smile/rules)
+
