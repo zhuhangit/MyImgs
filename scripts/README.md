@@ -1,11 +1,8 @@
 # quanx
 
-1. Spotify
 1. Spotify翻译
 1. 蜗牛
-1. MIX
-1. 小影
-1. youtube
+
 
 ```
 [rewrite_remote]
